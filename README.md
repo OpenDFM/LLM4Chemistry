@@ -104,7 +104,11 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.07` ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering. [arXiv](https://arxiv.org/pdf/2407.16931v1)
 - `2024.09` VisScience: An Extensive Benchmark for Evaluating K12 Educational Multi-modal Scientific Reasoning. [arXiv](https://arxiv.org/pdf/2409.13730)
 - `2024.09` ChemEval: A Comprehensive Multi-Level Chemical Evalution for Large Language Models. [arXiv](https://arxiv.org/pdf/2409.13989)
-  
+- `2024.10` Unraveling Molecular Structure: A Multimodal Spectroscopic Dataset for Chemistry. [NIPS2024](https://arxiv.org/abs/2407.17492)
+- `2024.10` MassSpecGym: A benchmark for the discovery and  identification of molecules. [NIPS2024](https://arxiv.org/abs/2410.23326)
+- `2024.10` Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation. [NIPS2024](https://kehanguo2.github.io/Molpuzzle.io/paper/SpectrumLLM__Arxiv_.pdf)
+- `2024.10` DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials. [NIPS2024](https://arxiv.org/pdf/2406.14347)
+
 ### Related Works
 
 - `2023.04` A Systematic Survey of Chemical Pre-trained Models. [IJCAI2023](https://www.ijcai.org/proceedings/2023/0760.pdf)
