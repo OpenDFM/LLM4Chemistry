@@ -1,4 +1,9 @@
 ## LLM4Chemistry
+
+<a>
+  <a href="https://arxiv.org/abs/2412.19994">
+  <img alt="Static Badge" src="https://img.shields.io/badge/arxiv-2412.19994-blue">
+</a>
 This repository collects papers on Large Language Model for Chemistry.
 
 > 😎 Welcome to recommend missing papers through Adding Issues or Pull Requests.
@@ -108,6 +113,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.10` MassSpecGym: A benchmark for the discovery and  identification of molecules. [NIPS2024](https://arxiv.org/abs/2410.23326)
 - `2024.10` Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation. [NIPS2024](https://kehanguo2.github.io/Molpuzzle.io/paper/SpectrumLLM__Arxiv_.pdf)
 - `2024.10` DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials. [NIPS2024](https://arxiv.org/pdf/2406.14347)
+- `2024.12` TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation. [arXiv](https://arxiv.org/pdf/2412.14642)
 
 ### Related Works
 
