@@ -62,6 +62,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.08` UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation. [arXiv](https://arxiv.org/pdf/2408.00863)
 - `2024.08` ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area. [arXiv](https://arxiv.org/abs/2408.07246)
 - `2024.09` ChemDFM-X: Towards Large Multimodal Model for Chemistry. [arXiv](https://arxiv.org/pdf/2409.13194)
+- `2025.02` Mol-LLM: Generalist Molecular LLM with Improved Graph Utilization. [arXiv](https://arxiv.org/pdf/2502.02810)
 
 ### LLM as A Chemistry Agent
 
