@@ -84,6 +84,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.05` Augmenting large language models with chemistry tools. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00832-8)
 - `2024.05` ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models. [Nature Communications](https://www.nature.com/articles/s41467-024-48998-4)
 - `2024.06` LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation. [arXiv](https://arxiv.org/pdf/2401.17244)
+- `2025.01` ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning. [ICLR2025](https://arxiv.org/pdf/2501.06590)
 
 
 ### LLM Chemistry Benchmark
@@ -127,3 +128,4 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.03` Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey. [arXiv](https://arxiv.org/pdf/2403.01528)
 - `2024.06` A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery. [arXiv](https://arxiv.org/pdf/2406.10833)
 - `2024.07` A Review of Large Language Models and Autonomous Agents in Chemistry. [arXiv](https://arxiv.org/pdf/2407.01603)
+
