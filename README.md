@@ -4,9 +4,12 @@
   <a href="https://arxiv.org/abs/2412.19994">
   <img alt="Static Badge" src="https://img.shields.io/badge/arxiv-2412.19994-blue">
 </a>
-This repository collects papers on Large Language Model for Chemistry.
 
-> 😎 Welcome to recommend missing papers through Adding Issues or Pull Requests.
+This repository collects papers on Large Language Models (LLMs) for Chemistry. In addition to LLMs, there are also many excellent works based on Pretrained Language Models (PLMs), such as BERT, BART, and T5, which should be considered for inclusion to foster future research. To differentiate between PLMs and LLMs, we highlight the titles of PLM-based papers in italic font.
+
+Besides, we also collect some useful links to prominent teams and popular projects.
+
+> 😎 Welcome to recommend missing papers and any helpful links through Adding Issues or Pull Requests.
 
 ## Contents
 
@@ -56,7 +59,7 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.01` ReactXT: Understanding Molecular “Reaction-ship” viaReaction-Contextualized Molecule-Text Pretraining. [ACL2024](https://arxiv.org/pdf/2405.14225)
 - `2024.03` GIT-Mol: A multi-modal large language model for molecular science with graph, image, and text. [arXiv](https://arxiv.org/pdf/2308.06911)
 - `2024.06` HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment. [arXiv](https://arxiv.org/pdf/2406.14021)
-- `2024.06` 3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization. [arXiv](https://arxiv.org/pdf/2406.05797)
+- `2024.06` *3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization*. [ICLR2025](https://arxiv.org/pdf/2406.05797)
 - `2024.06` MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension. [arXiv](https://arxiv.org/pdf/2406.06777)
 - `2024.07` MolLM: a unified language model for integrating biomedical text with 2D and 3D molecular representations. [Bioinformatics](https://academic.oup.com/bioinformatics/article/40/Supplement_1/i357/7700902)
 - `2024.08` UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation. [arXiv](https://arxiv.org/pdf/2408.00863)
@@ -129,3 +132,6 @@ This repository collects papers on Large Language Model for Chemistry.
 - `2024.06` A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery. [arXiv](https://arxiv.org/pdf/2406.10833)
 - `2024.07` A Review of Large Language Models and Autonomous Agents in Chemistry. [arXiv](https://arxiv.org/pdf/2407.01603)
 
+### Useful Links
+
+- [AI4Science Research Projects - Shanghai AI Lab](https://ai4sci-research.github.io/)
