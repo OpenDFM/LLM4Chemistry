@@ -88,6 +88,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.05` ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models. [Nature Communications](https://www.nature.com/articles/s41467-024-48998-4)
 - `2024.06` LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation. [arXiv](https://arxiv.org/pdf/2401.17244)
 - `2025.01` ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning. [ICLR2025](https://arxiv.org/pdf/2501.06590)
+- `2025.03` MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses. [ICLR2025](https://arxiv.org/abs/2410.07076)
 
 
 ### LLM Chemistry Benchmark
