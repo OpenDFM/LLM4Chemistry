@@ -67,6 +67,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.09` ChemDFM-X: Towards Large Multimodal Model for Chemistry. [arXiv](https://arxiv.org/pdf/2409.13194)
 - `2025.02`  Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model. [arXiv](https://arxiv.org/pdf/2502.13449) 
 - `2025.02` Mol-LLM: Generalist Molecular LLM with Improved Graph Utilization. [arXiv](https://arxiv.org/pdf/2502.02810)
+- `2025.05` ChemMLLM: Chemical Multimodal Large Language Model. [arXiv](https://arxiv.org/pdf/2505.16326)
 
 ### LLM as A Chemistry Agent
 
