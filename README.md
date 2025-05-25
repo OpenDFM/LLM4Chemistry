@@ -124,6 +124,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.10` Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation. [NIPS2024](https://kehanguo2.github.io/Molpuzzle.io/paper/SpectrumLLM__Arxiv_.pdf)
 - `2024.10` DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials. [NIPS2024](https://arxiv.org/pdf/2406.14347)
 - `2024.12` TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation. [arXiv](https://arxiv.org/pdf/2412.14642)
+- `2025.05` A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists. [Nature Chemistry](https://www.nature.com/articles/s41557-025-01815-x)
 
 ### Related Works
 
