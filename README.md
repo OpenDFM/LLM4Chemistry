@@ -44,6 +44,8 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.06` SynAsk: Unleashing the Power of Large Language Models in Organic Synthesis. [arXiv](https://arxiv.org/pdf/2406.04593)
 - `2024.06` PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes. [arXiv](https://arxiv.org/pdf/2406.13193)
 - `2024.09` SciDFM: A Large Language Model with Mixture-of-Experts for Science. [arXiv](https://arxiv.org/pdf/2409.18412)
+- `2025.05` Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning. [arXiv](https://arxiv.org/pdf/2505.02639)
+- `2025.05` ChemPile: A 250 GB Diverse and Curated Dataset for Chemical Foundation Models. [arXiv](https://arxiv.org/pdf/2505.12534)
 
 ### Multi-Modal Chemistry LLM
 
