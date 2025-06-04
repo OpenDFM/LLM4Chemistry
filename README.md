@@ -126,6 +126,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.12` TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation. [arXiv](https://arxiv.org/pdf/2412.14642)
 - `2025.05` A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists. [Nature Chemistry](https://www.nature.com/articles/s41557-025-01815-x)
 - `2025.05` MatTools: Benchmarking Large Language Models for Materials Science Tools. [arXiv](https://arxiv.org/pdf/2505.10852)
+- `2025.05` Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations. [arXiv](https://arxiv.org/pdf/2505.21318)
 
 ### Related Works
 
