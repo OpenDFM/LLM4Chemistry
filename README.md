@@ -46,6 +46,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.09` SciDFM: A Large Language Model with Mixture-of-Experts for Science. [arXiv](https://arxiv.org/pdf/2409.18412)
 - `2025.05` Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning. [arXiv](https://arxiv.org/pdf/2505.02639)
 - `2025.05` ChemPile: A 250 GB Diverse and Curated Dataset for Chemical Foundation Models. [arXiv](https://arxiv.org/pdf/2505.12534)
+- `2025.06` ether0: a scientific reasoning model for chemistry. [Preprint](https://storage.googleapis.com/aviary-public/ether0_preprint.pdf)
 
 ### Multi-Modal Chemistry LLM
 
