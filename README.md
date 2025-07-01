@@ -125,6 +125,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.10` Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation. [NIPS2024](https://kehanguo2.github.io/Molpuzzle.io/paper/SpectrumLLM__Arxiv_.pdf)
 - `2024.10` DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials. [NIPS2024](https://arxiv.org/pdf/2406.14347)
 - `2024.12` TOMG-Bench: Evaluating LLMs on Text-based Open Molecule Generation. [arXiv](https://arxiv.org/pdf/2412.14642)
+- `2025.02` Probing the limitations of multimodal language models for chemistry and materials research. [arXiv](https://arxiv.org/pdf/2411.16955v2)
 - `2025.05` A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists. [Nature Chemistry](https://www.nature.com/articles/s41557-025-01815-x)
 - `2025.05` MatTools: Benchmarking Large Language Models for Materials Science Tools. [arXiv](https://arxiv.org/pdf/2505.10852)
 - `2025.05` Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations. [arXiv](https://arxiv.org/pdf/2505.21318)
@@ -139,6 +140,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.03` Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey. [arXiv](https://arxiv.org/pdf/2403.01528)
 - `2024.06` A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery. [arXiv](https://arxiv.org/pdf/2406.10833)
 - `2024.07` A Review of Large Language Models and Autonomous Agents in Chemistry. [arXiv](https://arxiv.org/pdf/2407.01603)
+- `2025.06` A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools. [arXiv](https://arxiv.org/pdf/2506.20743)
 
 ### Useful Links
 
