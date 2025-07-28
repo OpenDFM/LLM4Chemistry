@@ -16,6 +16,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - [Large Language Model for Chemistry (LLM4Chemistry)](#llm4chemistry)
   - [Contents](#contents)
   - [Fine-tuning LLM for Chemistry](#fine-tuning-llm-for-chemistry)
+  - [Reasoning LLM for Chemistry](#reasoning-llm-for-chemistry)
   - [Multi-Modal Chemistry LLM](#multi-modal-chemistry-llm)
   - [LLM as A Chemistry Agent](#llm-as-a-chemistry-llm)
   - [LLM Chemistry Benchmark](#llm-chemistry-benchmark)
@@ -48,6 +49,10 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.05` ChemPile: A 250 GB Diverse and Curated Dataset for Chemical Foundation Models. [arXiv](https://arxiv.org/pdf/2505.12534)
 - `2025.06` From lab to fab: A large language model for chemical engineering. [Chinese Journal of Catalysis](https://www.sciencedirect.com/science/article/pii/S1872206725647255)
 - `2025.06` ether0: a scientific reasoning model for chemistry. [Preprint](https://storage.googleapis.com/aviary-public/ether0_preprint.pdf)
+
+### Reasoning LLM for Chemistry
+
+- `2025.07` Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning. [arXiv](https://arxiv.org/pdf/2507.17448)
 
 ### Multi-Modal Chemistry LLM
 
