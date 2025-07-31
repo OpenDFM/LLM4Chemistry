@@ -48,10 +48,11 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.05` Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning. [arXiv](https://arxiv.org/pdf/2505.02639)
 - `2025.05` ChemPile: A 250 GB Diverse and Curated Dataset for Chemical Foundation Models. [arXiv](https://arxiv.org/pdf/2505.12534)
 - `2025.06` From lab to fab: A large language model for chemical engineering. [Chinese Journal of Catalysis](https://www.sciencedirect.com/science/article/pii/S1872206725647255)
-- `2025.06` ether0: a scientific reasoning model for chemistry. [Preprint](https://storage.googleapis.com/aviary-public/ether0_preprint.pdf)
+- `2025.07` Advancing biomolecular understanding and design following human instructions. [Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01064-0)
 
 ### Reasoning LLM for Chemistry
 
+- `2025.06` ether0: a scientific reasoning model for chemistry. [Preprint](https://storage.googleapis.com/aviary-public/ether0_preprint.pdf)
 - `2025.07` Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning. [arXiv](https://arxiv.org/pdf/2507.17448)
 - `2025.07` ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge. [arXiv](https://www.arxiv.org/abs/2507.21990)
 
