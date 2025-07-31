@@ -53,6 +53,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 ### Reasoning LLM for Chemistry
 
 - `2025.07` Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning. [arXiv](https://arxiv.org/pdf/2507.17448)
+- `2025.01` ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge. [arXiv](https://www.arxiv.org/abs/2507.21990)
 
 ### Multi-Modal Chemistry LLM
 
