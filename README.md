@@ -55,6 +55,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.06` ether0: a scientific reasoning model for chemistry. [Preprint](https://storage.googleapis.com/aviary-public/ether0_preprint.pdf)
 - `2025.07` Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning. [arXiv](https://arxiv.org/pdf/2507.17448)
 - `2025.07` ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge. [arXiv](https://www.arxiv.org/abs/2507.21990)
+- `2025.07` MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs. [arXiv](https://www.arxiv.org/pdf/2508.02066)
 
 ### Multi-Modal Chemistry LLM
 
