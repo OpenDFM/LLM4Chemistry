@@ -105,6 +105,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.01` ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning. [ICLR2025](https://arxiv.org/pdf/2501.06590)
 - `2025.03` MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses. [ICLR2025](https://arxiv.org/abs/2410.07076)
 - `2025.08` LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework. [arXiv](https://arxiv.org/pdf/2508.11860)
+- `2025.08` FROGENT: An End-to-End Full-process Drug Design Agent. [arXiv](https://arxiv.org/pdf/2508.10760)
 
 
 ### LLM Chemistry Benchmark
