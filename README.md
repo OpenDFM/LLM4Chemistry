@@ -56,6 +56,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.07` Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning. [arXiv](https://arxiv.org/pdf/2507.17448)
 - `2025.07` ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge. [arXiv](https://www.arxiv.org/abs/2507.21990)
 - `2025.07` MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs. [arXiv](https://www.arxiv.org/pdf/2508.02066)
+- `2025.08` Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis. [arXiv](https://arxiv.org/pdf/2508.10967)
 
 ### Multi-Modal Chemistry LLM
 
@@ -80,6 +81,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.02`  Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model. [arXiv](https://arxiv.org/pdf/2502.13449) 
 - `2025.02` Mol-LLM: Generalist Molecular LLM with Improved Graph Utilization. [arXiv](https://arxiv.org/pdf/2502.02810)
 - `2025.05` ChemMLLM: Chemical Multimodal Large Language Model. [arXiv](https://arxiv.org/pdf/2505.16326)
+- `2025.08` Chem3DLLM: 3D Multimodal Large Language Models for Chemistry. [arXiv](https://arxiv.org/pdf/2508.10696)
 
 ### LLM as A Chemistry Agent
 
@@ -102,6 +104,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.06` LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation. [arXiv](https://arxiv.org/pdf/2401.17244)
 - `2025.01` ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning. [ICLR2025](https://arxiv.org/pdf/2501.06590)
 - `2025.03` MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses. [ICLR2025](https://arxiv.org/abs/2410.07076)
+- `2025.08` LARC: Towards Human-level Constrained Retrosynthesis Planning through an Agentic Framework. [arXiv](https://arxiv.org/pdf/2508.11860)
 
 
 ### LLM Chemistry Benchmark
