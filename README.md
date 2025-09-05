@@ -154,6 +154,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2024.06` A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery. [arXiv](https://arxiv.org/pdf/2406.10833)
 - `2024.07` A Review of Large Language Models and Autonomous Agents in Chemistry. [arXiv](https://arxiv.org/pdf/2407.01603)
 - `2025.06` A Survey of AI for Materials Science: Foundation Models, LLM Agents, Datasets, and Tools. [arXiv](https://arxiv.org/pdf/2506.20743)
+- `2025.08` From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery. [arXiv](https://arxiv.org/abs/2508.14111)
 
 ### Useful Links
 
