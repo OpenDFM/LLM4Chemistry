@@ -57,6 +57,9 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.07` ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge. [arXiv](https://www.arxiv.org/abs/2507.21990)
 - `2025.07` MolReasoner: Toward Effective and Interpretable Reasoning for Molecular LLMs. [arXiv](https://www.arxiv.org/pdf/2508.02066)
 - `2025.08` Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis. [arXiv](https://arxiv.org/pdf/2508.10967)
+- `2025.08` Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery. [arXiv](https://arxiv.org/pdf/2508.08401)
+- `2025.10` Reasoning-Enhanced Large Language Models for Molecular Property Prediction. [arXiv](https://arxiv.org/pdf/2510.10248)
+
 
 ### Multi-Modal Chemistry LLM
 
