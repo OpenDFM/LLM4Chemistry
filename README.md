@@ -148,6 +148,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.05` MatTools: Benchmarking Large Language Models for Materials Science Tools. [arXiv](https://arxiv.org/pdf/2505.10852)
 - `2025.05` Beyond Chemical QA: Evaluating LLM's Chemical Reasoning with Modular Chemical Operations. [arXiv](https://arxiv.org/pdf/2505.21318)
 - `2025.08` Can Reasoning Power Significantly Improve the Knowledge of Large Language Models for Chemistry?─Based on Conversations with LLMs [Journal of Chemical Information and Modeling](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01265)
+- `2025.12` SUPERChem: A Multimodal Reasoning Benchmark in Chemistry. [arXiv](https://arxiv.org/pdf/2512.01274)
 
 ### Related Works
 
