@@ -59,6 +59,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.08` Retro-Expert: Collaborative Reasoning for Interpretable Retrosynthesis. [arXiv](https://arxiv.org/pdf/2508.10967)
 - `2025.08` Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery. [arXiv](https://arxiv.org/pdf/2508.08401)
 - `2025.10` Reasoning-Enhanced Large Language Models for Molecular Property Prediction. [arXiv](https://arxiv.org/pdf/2510.10248)
+- `2025.12` A Scientific Reasoning Model for Organic Synthesis Procedure Generation. [arXiv](https://arxiv.org/pdf/2512.13668)
 
 
 ### Multi-Modal Chemistry LLM
