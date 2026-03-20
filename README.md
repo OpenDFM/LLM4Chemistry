@@ -88,6 +88,7 @@ Besides, we also collect some useful links to prominent teams and popular projec
 - `2025.02` Mol-LLM: Generalist Molecular LLM with Improved Graph Utilization. [arXiv](https://arxiv.org/pdf/2502.02810)
 - `2025.05` ChemMLLM: Chemical Multimodal Large Language Model. [arXiv](https://arxiv.org/pdf/2505.16326)
 - `2025.08` Chem3DLLM: 3D Multimodal Large Language Models for Chemistry. [arXiv](https://arxiv.org/pdf/2508.10696)
+- `2025.12` Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model. [NeurIPS 2025](https://arxiv.org/abs/2502.13449)
 
 ### LLM as A Chemistry Agent
 
